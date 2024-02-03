@@ -5,8 +5,6 @@ import org.rd.lessons.customers.models.Customer;
 import org.rd.lessons.customers.repositories.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
-
 import java.util.List;
 
 @Service
